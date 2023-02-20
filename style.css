@@ -1,0 +1,71 @@
+*{padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .imgg {height: 33px ;width: 268px;}
+  img{max-width: 100%;}
+  body{font-weight: 400;
+   color: #747474;
+   padding-top: 10px;
+   font-family: Roboto,Arial,sans-serif;align-items: center;
+   justify-content: center;
+   position: relative;
+  }
+  .nav{justify-content: space-around;width: 1015px;height: 70px;margin-left: 20%;padding-top: 10px;}
+  nav ul li{ 
+  list-style-type:none;
+   display:inline-block ;padding: 10px 15px;
+  }
+  .waa{color: #00b39b;text-decoration: none;height: 30;width: 77.66;font-size: 15px;padding: 0 9px;}
+  .waaa{color: #ababab;text-decoration: none;height: 30;width: 61.38;font-size: 15px;padding: 0 9px;}
+  .li{margin-left:  25%;}
+  .dcp{display: block;margin: 0 auto;padding-top: 50px;}
+  .a{font-family: Arial,sans-serif;font-weight: 300;letter-spacing: -.3px;text-align: center;color: #00b39b;padding: 20px;}
+  .flex-container {
+    display: flex;
+    background-color: white;justify-content: space-around;width:70%;margin-left: 15%;justify-content: space-around;
+  }
+  
+  .flex-container > div {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  .bilel{font-size: 16px;color:#747474;    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;}
+    .patient{width: 25px;height: 25px;margin-left: 5%;}
+    .elements{    border-radius: 10px;
+      padding: 2em 2em 0;
+      overflow: hidden;
+      height: 345px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: all .2s ease 0s; display: flex;}
+      
+      .flex-containerr  {
+        display: flex;
+        background-color: white;;}
+        .flex-containerr  div {
+          background-color: white;
+          margin: 30px;
+          padding: 20px;
+        font-size: 30px;}
+        .doctor{width: 25px;height: 25px;}
+        .clinic{width: 25px;height: 25px;}
+        .flex-containerr .for-patients{background-color: #00ccb1;border: 0px solid;border-radius: 30px;width: 25%;height: 30%;}
+        .flex-containerr .doctors{background-color: #3d83df;border: 0px solid;border-radius: 30px;width:25%;height: 30%}
+        .flex-containerr .clinics{background-color: #1b2734;border: 0px solid;border-radius: 30px;width:25%;height: 30%}
+        .in{color: white;}
+        .out{color: white;}
+        .first-option{border: none;}
+        #domain-switcher{font-size: small;}
+        .out{font: size 18px; ;}
+         #domain-switcher{appearance: none;outline: 0;box-shadow: none;border: 0;background:#1b2734 ;background-color: #1b2734;}
+         #domain-switcherrr{appearance: none;outline: 0;box-shadow: none;border: 0;background:#00ccb1;background-color: #00ccb1;}
+         #domain-switcherr{appearance: none;outline: 0;box-shadow: none;border: 0;background:#3d83df}
+         .imggg{width: 25px;height: 25px;color: white;}
